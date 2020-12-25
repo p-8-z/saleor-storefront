@@ -294,7 +294,7 @@
     "string": "Zdá sa, že nenájdeme stránku, ktorú hľadáte!"
   },
   "components_dot_OverlayManager_dot_Cart_dot_Cart_dot_1316031908": {
-    "string": "Moja taška,"
+    "string": "Môj košík,"
   },
   "components_dot_OverlayManager_dot_Cart_dot_Cart_dot_1397761112": {
     "context": "items quantity in cart",
@@ -307,7 +307,7 @@
     "string": "Pokračovať v nákupe"
   },
   "components_dot_OverlayManager_dot_Cart_dot_Empty_dot_4121934554": {
-    "string": "Nič nemáte v košíku. Sme si istí, že v našom obchode niečo nájdete"
+    "string": "Sme si istí, že v našom obchode niečo nájdete"
   },
   "components_dot_OverlayManager_dot_Cart_dot_Empty_dot_966560142": {
     "string": "Váš košík je prázdny"
@@ -331,13 +331,13 @@
     "string": "Bol vytvorený nový užívateľ"
   },
   "components_dot_OverlayManager_dot_Login_dot_index_dot_282922692": {
-    "string": "Účet predajcu"
+    "string": "Účet"
   },
   "components_dot_OverlayManager_dot_Login_dot_index_dot_3254057623": {
-    "string": "Zaregistrujte si nový účet"
+    "string": "Zaregistrovať sa"
   },
   "components_dot_OverlayManager_dot_Login_dot_index_dot_3293735236": {
-    "string": "Prihláste sa do účtu"
+    "string": "Prihlásiť sa"
   },
   "components_dot_OverlayManager_dot_Password_dot_index_dot_4028609483": {
     "string": "Obnoviť heslo"
