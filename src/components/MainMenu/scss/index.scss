@@ -44,14 +44,6 @@
 
   &__center {
     align-self: center;
-
-    svg {
-      width: 5.2rem;
-
-      @media (min-width: $small-screen) {
-        width: 7rem;
-      }
-    }
   }
 
   &__item {

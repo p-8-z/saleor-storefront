@@ -1,6 +1,6 @@
 {
   "@next_dot_components_dot_atoms_dot_AddNewTile_dot_AddNewTile_dot_2493765518": {
-    "string": "Pridať nový {type}"
+    "string": "Pridať novú {type}"
   },
   "@next_dot_components_dot_atoms_dot_DemoBanner_dot_DemoBanner_dot_214739616": {
     "string": "<emphasis>GraphQL API</emphasis>"
@@ -397,7 +397,7 @@
     "string": "Pokračovať na platbu"
   },
   "intl_dot_checkoutMessages_dot_stepNameAddress": {
-    "string": "Adresa"
+    "string": "Adresu"
   },
   "intl_dot_checkoutMessages_dot_stepNamePayment": {
     "string": "Platba"
